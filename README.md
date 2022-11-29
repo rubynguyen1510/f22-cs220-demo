@@ -3,9 +3,9 @@
 ## This is a sub heading
 
 This is a list:
-*first item
-*second item
-*third item
+* first item
+* second item
+* third item
 
 Here is some code:
 ```
